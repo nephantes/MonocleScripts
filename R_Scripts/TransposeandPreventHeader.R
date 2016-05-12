@@ -1,0 +1,1 @@
+tmydf = setNames(data.frame(t(mydf[,-1])), mydf[,1])

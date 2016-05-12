@@ -1,0 +1,1 @@
+matrix(unlist(a), ncol=(x))
